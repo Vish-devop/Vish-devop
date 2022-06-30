@@ -7,5 +7,5 @@ Python, Django, C, HTML5/CSS3, JavaScript(ES6+), React.js, MYSQL, MongoDB
 - 📫 Reach me through, 
 Linkedln (https://www.linkedin.com/in/vishal479079/) || 
 Email (Vishal.473079@gmail.com)
-(https://github-readme-stats.vercel.app/api?username=<vish-devop>)
+
 
