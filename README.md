@@ -2,8 +2,10 @@
 - 👀 I’m interested in problem solving, even in Web-3.0.
 - 🌱 At instance I'm practicing Full-Stack Web Development using Django as a Backened framework and enrolled in my associate degree (BTech from Computer Science field).
 - 💞️ I’m looking to collaborate on the projects which matches my interest, and learning new stuffs.
+- 👨🏻‍💻 Languages and Tools
+Python, Django, C, HTML5/CSS3, JavaScript(ES6+), React.js, MYSQL, MongoDB
 - 📫 Reach me through, 
 Linkedln (https://www.linkedin.com/in/vishal479079/) || 
 Email (Vishal.473079@gmail.com)
-
+(https://github-readme-stats.vercel.app/api?username=<vish-devop>)
 
